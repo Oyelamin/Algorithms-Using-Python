@@ -9,3 +9,7 @@ def main(lists):
     
 if __name__ == "__main__":
     print(main([0,2, 0,12,0, 0,4]))
+
+#Output:
+# >>   [2, 4, 12, 0, 0, 0, 0]
+    
